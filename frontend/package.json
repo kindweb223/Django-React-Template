@@ -53,6 +53,6 @@
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.0.1",
     "reselect": "^2.2.1",
-    "superagent": "^1.8.2"
+    "superagent": "^5.2.2"
   }
 }
